@@ -2,7 +2,7 @@
 
 This is a small project where I played around with fetch you utilize NASA's APOD API.  
 
-* [Fun with NASA] (https://megler.github.io/nasaAPI/) - View the Fun with NASA API page
+* [Fun with NASA](https://megler.github.io/nasaAPI/) - View the Fun with NASA API page
 
 ## General
 
