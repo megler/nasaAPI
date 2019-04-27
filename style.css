@@ -1,0 +1,45 @@
+body {
+    background: black;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.gallery {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90%;
+}
+
+.image {
+    max-height: 400px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {    
+    color: #ffffff;
+    background-color: #BD1BB5;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;    
+    cursor: pointer;
+    border-radius: 16px;
+    font-size: 20px;
+}
