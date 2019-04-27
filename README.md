@@ -2,6 +2,8 @@
 
 This is a small project where I played around with fetch you utilize NASA's APOD API.  
 
+* [Fun with NASA] (https://megler.github.io/nasaAPI/) - View the Fun with NASA API page
+
 ## General
 
 On page load, you should get 10 images. If the feed sends a video, it should not display, which would give you less than 10 images. The page is laid out with Flexbox and I used jQuery for scripting.  jQuery was handy because it was easy to incorporate a lightbox for the images without getting bogged down writing something that wasn't my overall goal.
@@ -11,7 +13,7 @@ On page load, you should get 10 images. If the feed sends a video, it should not
 
 ### Built With
 
-* [lightbox](https://lokeshdhakar.com/projects/lightbox2/) - Lightbox by Lokesh Dhakar
+* [Lightbox](https://lokeshdhakar.com/projects/lightbox2/) - Lightbox by Lokesh Dhakar
 * [NASA](https://api.nasa.gov/api.html#apod) - NASA's APOD (Astronomy Picture of the Day) API
 
 ### Final Thoughts
